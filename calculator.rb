@@ -1,7 +1,6 @@
 # Add your variables here
-first_number=9
-second_number=5
-sum=14
-
-
-
+first_number=2
+second_number=1
+sum=3
+difference=l
+quotient=2
